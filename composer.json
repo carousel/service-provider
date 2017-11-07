@@ -1,12 +1,12 @@
 {
-    "name": "Carousel/ServiceProvider",
+    "name": "carousel/service-provider",
     "type": "library",
     "description": "Service provider for container",
     "keywords": [
         "Carousel",
         "ServiceProvider"
     ],
-    "homepage": "https://github.com/Carousel/ServiceProvider",
+    "homepage": "https://github.com/carousel/service-provider",
     "license": "MIT",
     "authors": [
         {
